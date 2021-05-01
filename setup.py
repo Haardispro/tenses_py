@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="tense_py",
-    version="0.0.0",
+    name="tenses_py",
+    version="0.0.1",
     author="Haard Majmudar",
     author_email="haardmajmudar2827@email.com",
     description="This module converts tenses",

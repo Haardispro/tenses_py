@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+tenses_py/__init__.py
+tenses_py.egg-info/PKG-INFO
+tenses_py.egg-info/SOURCES.txt
+tenses_py.egg-info/dependency_links.txt
+tenses_py.egg-info/top_level.txt
